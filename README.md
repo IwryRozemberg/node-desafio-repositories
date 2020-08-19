@@ -1,4 +1,4 @@
-# Desafio 02 - NODEJS
+# Desafio 002: NODE.JS 🔙
 
 ## Back-end para controle de repositórios
 
